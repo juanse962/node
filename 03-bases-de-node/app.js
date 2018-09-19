@@ -5,7 +5,6 @@ let data = '';
 
 for (let index = 1; index <= 10; index++) {
     data += `${base} * ${index} = ${base*index} \n`;
-
 }
 
 fs.writeFile(`tablas/tabla-${base}.txt`, data, (err) => {
