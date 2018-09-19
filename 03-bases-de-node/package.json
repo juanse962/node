@@ -1,0 +1,23 @@
+{
+  "name": "03-bases-de-node",
+  "version": "2.0.0",
+  "description": "Esta es una aplicacion de linea de comandos",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanse962/node.js.git"
+  },
+  "author": "Juan Sebatstian Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanse962/node.js/issues"
+  },
+  "homepage": "https://github.com/juanse962/node.js#readme"
+}
